@@ -28,7 +28,7 @@ A desktop polygonal 3D modeling application built with **Python**, **PySide6 (Qt
 ## Quick Start
 
 ```bash
-cd /home/antigravity/py3d_modeler
+cd py3d_modeler
 source .venv/bin/activate
 python main.py
 ```
